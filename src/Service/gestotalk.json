@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "gestotalk-yedq",
+  "private_key_id": "61db3b5e91a8d45afd63a0733af81dcbb17e6d3a",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQC2j0nd4oZSWMK9\nkAWf7RyZwRw0FYB2EIVH5BxwvFXqEK7O73GgnnEl07Ho9+v5Asp8LsB/XBv7opWc\n0KbkQ+sD+IccgzcTbTV2YbR2JvwIhYHpMjOGXxP0qWoVekoDyQRBWQB2+Y46kPG5\n/fgsGiRuM0UMLorbJcAINe7QegrihDS+UrjkkZTfy9B+gQKmHJs9NtSpBJarcSEz\n0pX7bhWPb/iKXtZhLKp+UXfm+OqjoU4Ec7FooqnZ0KkOgQ4DU1p8FGTDCvUbfhnc\noFRXXHO3tCh7+7yVeSYfvJflxpBZvEKAqb9ZF44OzP3gQsuq7VidkUbMnCnIq4oz\nK30GqeyXAgMBAAECggEAIcVtATZj6bzQvZd0aurGlSzThlEJ9A1HUo7Ashws+oE+\njTpfNzrILJq2OSYPyX86LPHLG2RTKuAfNCSnEuf7hD8H437kg9v6fV1CsG6yxfLI\nnvZx8KQLAYILhVCbe4rGlj4cJ2Yv6OaiSOlR7PqjDZ2/YqsDddnMZdhwRrGk7NT+\nWUARMsxfEJR/FF247yCgtiLgDip60Ig/Ogl2iyjw/i1Z03rjdgAoIB8uCqd699/o\n+LzvsiN7mSh3PEnW7W9o3212DPHZnjT2HmKcHpfeWJENPIYi73s57DxiOa+tzIe+\nMLEShVLEBQqsEHDgNEhtyctn/EZ6PLwXiNe41hwppQKBgQD4Y/djGNgmjDOZPiVT\nqwFvZo9Pa9rdRODvq0SJOVb+jKYVU0qCW5aZzlqU4yMkln62H5A2WDKTwsxFXH8h\nBxNFrDjxv01/Q7MNL0IL+vY7vFonZTzT92xMywtjbbd2TCZyAdxFAm6ZFzqClOlL\nSq7hvutAzT0XAfrabRPf1TYTYwKBgQC8Jwk8tnrrfiReuFqkepULtHSFcEtvtJtT\no+2Dfay0RRihDTvGMBnOKoE23sPy+ouIWX5Af1MnADiXKQa/BUJ+GY49MR7Ylz1l\ne94WVTLwkaA4GuMc6KDn6YhTPnz6sP2YUUrGnJx9wAh0XatFKc3Z43gstb2ZUqlK\nUsL/ljfaPQKBgFjKS02GPQYSigNWfrtY3qt2yvXGBTehfpLN8zLmZ12Y42muG21b\n1grnA+RDCXXzwhnSUJfMkU/Wi3Sj6uHgiJgYR0bLbqV2itPEt+RWcpzJ6KQ6gTL4\nOCN/VXPWbYWBFSEd3yJgCy74abbyCi8a5EbYG3pPo23NDGH2KeuSaMEnAoGAQR8V\nsGDMXJOVTP9rx//xdFKp/cFnKquNEz7qpxcpXl+H7b4h0S+2zsehX3dsxL146+Fl\ntDcddaM68v6tKhJM+E4qD/3fWkHGa0ibDonAjskodiLANrJBduM6Xu2C3lXCACUq\nx2FPPKrpgjUlYVPdvqtfXcItdFLK60GH4mSAwlUCgYBlGOnqj/GuxUTyeq2pyO7T\n7RQIjnzSyrIiCoOYWSetnlYU831gnavzxldcOmp8E91+5524IWWvnb+mfC6Ep6Px\n0kX0NJmX0eX9+3eDHOhuRBCrMOCUnOEU+pYtJjCnjEi8JC4j1/qrZhd4JfMjjamj\nVVFPU2cS0QVZuwMfqMvt3A==\n-----END PRIVATE KEY-----\n",
+  "client_email": "gestotalk@gestotalk-yedq.iam.gserviceaccount.com",
+  "client_id": "113263900014321646724",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/gestotalk%40gestotalk-yedq.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
